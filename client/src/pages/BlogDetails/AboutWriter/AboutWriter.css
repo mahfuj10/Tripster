@@ -1,0 +1,6 @@
+@media only screen and (max-width: 800px) {
+    .about-writer {
+        margin-left: auto !important;
+        margin-right: auto !important;
+    }
+   }

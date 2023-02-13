@@ -1,0 +1,23 @@
+figure {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	background: #fff;
+	overflow: hidden;
+}
+/* figure:hover img {
+	-webkit-transform: scale(1.5);
+	transform: scale(1.5);
+	-webkit-transition: .3s ease;
+	transition: .3s ease;
+}
+figure img {
+	-webkit-transform: scale(1);
+	transform: scale(1);
+}  
+ */
+.selected{
+	border: 1px solid #D85726 !important;
+	color: #D85726 !important;
+}
